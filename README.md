@@ -200,7 +200,7 @@ This project helped me learn:
 
 🔗 LinkedIn: https://www.linkedin.com/in/eshwarprashanth
 
-🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+🐙 GitHub: https://github.com/eshwar-prashanth
 
 ---
 
